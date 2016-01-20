@@ -1,0 +1,25 @@
+
+-----------  start log at Mon Nov 30 13:38:49 2015----------
+compile_gra> [in  C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\examples\Resources\Grammar ] 
+	ingra->  C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\examples\Resources\Grammar\GRAMMAR\MeetingLineDomain.gra 
+	outgra-> C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\examples\Resources\Grammar\MeetingLine.gra 
+	class->   
+compile_gra> doing Phoenix compile
+compile_gra:phoenix_compile> [__datetime_junk]  2 states  3 arcs
+compile_gra:phoenix_compile> [_was]  2 states  2 arcs
+compile_gra:phoenix_compile> [_meeting]  3 states  4 arcs
+compile_gra:phoenix_compile> [last_meeting]  6 states  6 arcs
+compile_gra:phoenix_compile> [previous_meeting]  9 states  12 arcs
+compile_gra:phoenix_compile> [that_meeting]  3 states  3 arcs
+compile_gra:phoenix_compile> [MeetingReferent]  3 states  6 arcs
+compile_gra:phoenix_compile> [user_name]  2 states  1 arcs
+compile_gra:phoenix_compile> [UserPIN]  2 states  1 arcs
+compile_gra:phoenix_compile> [QueryWhenAndWho]  4 states  4 arcs
+compile_gra:phoenix_compile> [QueryWhoAndAgenda]  4 states  4 arcs
+compile_gra:phoenix_compile> [QueryWhen]  17 states  23 arcs
+compile_gra:phoenix_compile> [QueryWho]  24 states  49 arcs
+compile_gra:phoenix_compile> [QueryAgenda]  30 states  48 arcs
+compile_gra:phoenix_compile> [QueryActionItems]  153 states  289 arcs
+compile_gra:phoenix_compile> [ReadNotes]  6 states  7 arcs
+compile_gra:phoenix_compile> [usernames]  2 states  5 arcs
+compile_gra> doing Phoenix concept_leaf

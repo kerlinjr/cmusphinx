@@ -1,0 +1,325 @@
+
+-----------  start log at Wed Nov 25 13:47:04 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 13:47:47 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 13:51:03 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 13:51:49 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 13:58:03 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 13:58:18 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:00:32 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:00:42 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => web
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+FAIL> Need corpus
+
+-----------  start log at Wed Nov 25 14:03:29 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => web
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+FAIL> Need corpus
+
+-----------  start log at Wed Nov 25 14:03:42 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:03:56 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:12:10 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:17:02 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:18:05 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => 
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v
+
+-----------  start log at Wed Nov 25 14:29:49 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:30:51 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => 
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v
+
+-----------  start log at Wed Nov 25 14:31:53 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:33:03 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:33:38 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:33:55 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:34:23 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:35:50 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:36:27 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:41:28 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+
+-----------  start log at Wed Nov 25 14:42:25 2015----------
+Pronounce> 	LEXILIB => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib
+Pronounce> 	WORDFILE => C:\TCDTIMIT\Sequencing\sentence.txt
+Pronounce> 	HANDDICT => C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
+Pronounce> 	OUTDIR => C:/TCDTIMIT/Sequencing
+Pronounce> 	PRONOUNCE => C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\bin\x86-nt\pronounce.exe
+Pronounce> 	LOGFILE => C:\TCDTIMIT\Sequencing\pronunciation.log
+Pronounce> 	LEXICON => cmudict_SPHINX_40
+Pronounce> 	FORCE => 0
+Pronounce> 	SOURCE => loc
+Pronounce> 	OUTFILE => C:\TCDTIMIT\Sequencing\sentencePronounce.txt
+Pronounce> -P40 -r C:\Users\jrkerlin\Documents\GitHub\cmusphinx\logios\Tools\MakeDict\lib -d cmudict_SPHINX_40 -i C:\TCDTIMIT\Sequencing\sentence.txt -o C:\TCDTIMIT\Sequencing\sentencePronounce.txt -e C:\TCDTIMIT\Sequencing\pronunciation.log -v -H C:\TCDTIMIT\Sequencing\CMUdict_with_dublin.txt
